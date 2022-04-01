@@ -1,0 +1,14 @@
+C:\Users\lucas\source\repos\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\lucas\source\repos\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\lucas\source\repos\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\lucas\source\repos\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\lucas\Desktop\Repositorio git\Calculadora\Arquivos\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Repositorio git\Calculadora\Arquivos\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\lucas\Desktop\Repositorio git\Calculadora\Arquivos\obj\Debug\Calculadora.exe
+C:\Users\lucas\Desktop\Repositorio git\Calculadora\Arquivos\obj\Debug\Calculadora.pdb
